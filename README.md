@@ -1,1 +1,1 @@
-# Integrated-DNA-damge-TMZ-model
+# Integrated DNA damage-TMZ model
